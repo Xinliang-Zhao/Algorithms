@@ -6,4 +6,4 @@ https://ai-scholar.tech/articles/reinforcement-learning/rad
 大きい物体の検出可否
 
 https://horomary.hatenablog.com/entry/2020/12/20/115439
-探索ノイズ、連続確率分布
+探索ノイズ（スムージング、探索範囲拡大）、連続確率分布
